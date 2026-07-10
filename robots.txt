@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pokerresourcehub.github.io/poker-club-id-guide/sitemap.xml
